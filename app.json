@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Jamaal Connect",
+    "slug": "jamaal-connect",
+    "owner": "jamaal07",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#121212"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nurxasan011.jamaalconnect"
+    },
+    "android": {
+      "package": "com.nurxasan011.jamaalconnect",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#6C3BFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "995d60ec-5f72-4289-8e05-b9508f08924f"
+      }
+    }
+  }
+}
